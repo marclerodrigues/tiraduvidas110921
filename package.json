@@ -1,0 +1,22 @@
+{
+  "name": "aula110921",
+  "version": "1.0.0",
+  "description": "Esse projeto é foda!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclerodrigues/tiraduvidas110921.git"
+  },
+  "author": "Marcle Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marclerodrigues/tiraduvidas110921/issues"
+  },
+  "homepage": "https://github.com/marclerodrigues/tiraduvidas110921#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
